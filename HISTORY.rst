@@ -3,6 +3,27 @@ History
 -------
 
 
+11.0.11 (2022-04-29)
+++++++++++++++++++
+
+- Remove deprecated HTMLDocument.registerElement usage.
+  `#123 <https://github.com/wakatime/atom-wakatime/issues/123>`_
+- Create symlink to wakatime-cli for consistency with other wakatime plugins.
+
+
+11.0.10 (2022-03-14)
+++++++++++++++++++
+
+- Fix bug where wrong variable name used when creating resources folder.
+  `#121 <https://github.com/wakatime/atom-wakatime/issues/121>`_
+
+
+11.0.9 (2022-01-30)
+++++++++++++++++++
+
+- Use separate config file for internal settings.
+
+
 11.0.8 (2021-12-18)
 ++++++++++++++++++
 
